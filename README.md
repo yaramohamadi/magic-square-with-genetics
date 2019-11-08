@@ -29,7 +29,7 @@ I used 2 reconciliation methods.
 1. PMX 
 2. Cycle 
 
-Mutation 
+#Mutation 
 
 I used 4 methods for this. 
 1. Swap 
